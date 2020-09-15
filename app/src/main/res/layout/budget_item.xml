@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="75dp"
+    android:layout_marginLeft="17dp"
+    android:layout_marginRight="17dp"
+    android:layout_marginTop="5dp"
+    android:background="@drawable/budget_item">
+    <TextView
+        android:id="@+id/item_name"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="20dp"
+        android:layout_alignParentTop="true"
+        android:textAppearance="@style/item_name_style"
+        android:gravity="center_vertical"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="10dp"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/item_amount"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="10dp"
+        android:layout_alignParentTop="true"
+        android:textAppearance="@style/item_amount_style"
+        android:gravity="center"
+        android:layout_marginEnd="30dp"
+        android:textStyle="bold"
+        android:layout_alignParentEnd="true"/>
+    <ImageButton
+        android:layout_width="10dp"
+        android:layout_height="20dp"
+        android:src="@drawable/ic_black_3_dots"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginEnd="10dp" />
+</RelativeLayout>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">antla</string>
+    <string name="budget">Budget:</string>
+    <string name="dummy_value">0</string>
+    <string name="balance">Balance:</string>
+    <string name="savings">Savings:</string>
+    <string name="goals">Goals:</string>
+    <string name="main_add_sign">+</string>
+    <string name="setup_budget_message">Setup your budget, optimize your life</string>
+    <string name="budget_interval">Interval</string>
+    <string name="interval_value">Monthly</string>
+    <string name="interval_info">your budget is set to monthly, please ensure that the amount set for each item is just enough for a month</string>
+    <string name="more_expense_button">Add more expenses</string>
+    <string name="expense_name">Expense name</string>
+    <string name="amount">Amount</string>
+    <string name="add_to_budget">Add to budget</string>
+    <string name="next_withdrawal_coming_on">Next withdrawal coming on:</string>
+    <string name="make_a_deposit">Make a deposit</string>
+    <string name="withdraw_funds">Withdraw funds</string>
+    <string name="set_out_money_for_future_expenses">Set out money for future expenses</string>
+    <string name="create_a_goal">Create a goal</string>
+    <string name="set_the_goal">Set the goal</string>
+    <string name="collection_date">Collection date</string>
+    <string name="ok">OK</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign up!</string>
+    <string name="login_message">Automating good financial habits.</string>
+    <string name="name">Name</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login">Login</string>
+    <string name="sign_up_button">Sign up</string>
+    <string name="register_message">Welcome to your automated financial future</string>
+</resources>

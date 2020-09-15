@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "148990884698",
+    "firebase_url": "https://antla-7953f.firebaseio.com",
+    "project_id": "antla-7953f",
+    "storage_bucket": "antla-7953f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148990884698:android:2863ed6addf64ea9c41163",
+        "android_client_info": {
+          "package_name": "com.android.bignerdranch.antla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148990884698-l3tf82js7rookfgg1a8hkc2gmp38eg3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.bignerdranch.antla",
+            "certificate_hash": "9b47ab92be6664ecc0b76f0b33be941dacbe9a1c"
+          }
+        },
+        {
+          "client_id": "148990884698-6jgn19iurf2n1b8pdkjt8808b0o8tfm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJjtbnY4cVjxC863RBoYokk6XdNYb2a9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148990884698-6jgn19iurf2n1b8pdkjt8808b0o8tfm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
